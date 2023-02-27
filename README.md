@@ -1,1 +1,1 @@
-# Hate_speech_offensive-_language_detection
+# Hate_speech_offensive_language_detection
